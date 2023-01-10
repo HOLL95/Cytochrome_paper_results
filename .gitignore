@@ -1,0 +1,8 @@
+/build
+*.so
+/Cytochrome_paper_results.egg-info
+/src/CMakeFiles/
+/src/CmakeCache.txt
+/src/cmake_install.cmake
+/src/Makefile
+/src/pybind11
